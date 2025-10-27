@@ -1,5 +1,5 @@
 
-# Is Your Writing Being Mimicked by AI? Unveiling Imitation with Invisible Watermarks in Creative Writing
+# WIND: A Verifiable Zero-Watermark Framework for Protecting Creative Textual Data
 
 This repository is the official implementation of our WIND, a novel verifiable and implicit watermarking scheme designed to protect the originality of creative writing from unauthorized AI imitation.
 
