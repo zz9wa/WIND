@@ -1,7 +1,7 @@
 
 # WIND: A Verifiable Zero-Watermark Framework for Protecting Creative Textual Data
 
-This repository is the official implementation of our WIND, a novel verifiable and implicit watermarking scheme designed to protect the originality of creative writing from unauthorized AI imitation.
+This repository is the official implementation of our WIND, a novel verifiable and implicit watermarking scheme designed to safeguard the copyright of creative writing databases.
 
 ## Requirements
 
